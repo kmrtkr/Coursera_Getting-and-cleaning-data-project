@@ -1,0 +1,9 @@
+The dataset has following items
+'README.txt'
+'x_train.txt': Training set.
+'y_train.txt': Training labels.
+'x_test.txt': Test set.
+'y_test.txt': Test labels.
+'activity_labels.txt': Links between the class labels with their activity name.
+'features_info.txt': information about the variables
+'features.txt': List all features.
